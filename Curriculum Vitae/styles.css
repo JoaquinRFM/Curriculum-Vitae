@@ -1,0 +1,37 @@
+#cv{
+    align-items: center;
+    text-align: center;
+}
+#superior {
+    display: flex;
+    align-items: center;
+    height: 200px;
+    width: 1000px;
+    background-color: rgb(53, 53, 53);
+}
+#photo {
+    width: 40%;
+    text-align: center;
+}
+#name{
+    width: 60%;
+    text-align: center;
+    color: white;
+    font-family: monospace;
+    font-size: 25px;
+}
+#content {
+    display: flex;
+    text-align: center;
+    height: 750px;
+    width: 1000px;
+}
+#column1 {
+    width: 30%;
+    background: rgb(136, 136, 136);
+    color: white;
+}
+#column2 {
+    flex: 1;
+    background: rgb(197, 197, 197);
+} 
